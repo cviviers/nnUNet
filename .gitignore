@@ -96,6 +96,7 @@ ENV/
 *.jpg
 *.jpeg
 .idea
+*.txt
 .idea/*
 *.png
 # *.nii.gz  # nifti files needed for example_data for github actions tests
