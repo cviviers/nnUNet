@@ -1,0 +1,3 @@
+[submodule "nnunetv2/SPECTRE"]
+	path = nnunetv2/SPECTRE
+	url = https://github.com/cviviers/SPECTRE.git
