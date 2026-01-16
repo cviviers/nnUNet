@@ -122,7 +122,7 @@ This allows for flexible weight initialization while ensuring that pretrained we
 A ready-to-use Docker container is available:
 
 ```bash
-docker pull sudochris/nnunet_spectre:latest
+docker pull sudochris/nnunet_spectre:v2
 ```
 
 ### Building from Dockerfile
